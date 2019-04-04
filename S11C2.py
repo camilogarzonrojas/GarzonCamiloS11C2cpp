@@ -1,6 +1,7 @@
 ## Semana 11 Clase 2
 #Ejercicio: Cree un repositorio llamado ApellidoNombreS11C2cpp. En este repositorio deben estar todos los codigos que debe entregar al final de la clase. la entrega debe ser un directorio comprimido ApellidoNombreS11C2cpp.zip que usted debe subir a sicua y el enlace de GitHub con el repositorio correspondiente.
 
+
 # programa 1: Haga un programa que reciba interactivamente dos valores enteros y retorne los numero primos contenidos en el intervalo delimitado por estos dos valores. llamelo primos.cpp
 
 # programa 2: Tome su programa que calcula el factorial de un numero n (y que recibe n interactivamente). Reescribalo usando funciones. La seccion de codigo que calcula el factorial debe ser una funcion independiente que es llamada desde la funcion main. llamelo factorial_interFUN.cpp

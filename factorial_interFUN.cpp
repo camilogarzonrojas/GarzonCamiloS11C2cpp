@@ -3,6 +3,7 @@ using namespace std;
 
 int factorial(int numero);
 
+
 int main()
 {
 	int i;
