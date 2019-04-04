@@ -17,6 +17,7 @@ int main()
 	return 0;
 }
 
+
 int numeros_primos(int a, int b)
 {
 	int contador=0;
